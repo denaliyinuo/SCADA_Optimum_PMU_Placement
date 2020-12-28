@@ -6,7 +6,7 @@ file_name = 'ieee_30'
 
 pmu = [9, 12, 25]
 
-n = 20
+n = 7
 
 df_length = 30
 

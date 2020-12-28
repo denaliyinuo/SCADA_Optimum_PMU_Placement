@@ -11,7 +11,9 @@ def read_file(path):
 # import files
 
 
-file_name = 'ieee_30'
+# file_name = 'ieee_14'
+# file_name = 'ieee_30'
+file_name = 'new_england_39'
 
 
 path = '/Users/nathanoliver/Desktop/Python/SCADA/csv/01_files_after_cleaning/' + \
